@@ -4,6 +4,7 @@ body {
   
   #download-resume {
     text-align: center;
+    border: 1px solid black;
     padding: 10px;
     background-color: #F0F8FF;
   }
@@ -23,3 +24,9 @@ body {
     text-align: center;
     padding: 10px;
   }
+
+footer {
+    background-color: #F0F8FF;
+    padding: 10px;
+    text-align: center;
+}
